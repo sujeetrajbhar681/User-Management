@@ -94,9 +94,4 @@ https://github.com/sujeetrajbhar681/User-Management.git
 - Blank pages: Enable PHP error reporting (`error_reporting(E_ALL);` in php.ini).
 - Passwords hashed in Registration.php.
 
-## Future Improvements
-- Add validation, security (prepared statements).
-- Pagination, search.
-- Upload profile images.
-
 
