@@ -6,7 +6,7 @@ Basic PHP CRUD (Create, Read, Update, Delete) application for user management wi
 **Tech Stack:**
 - PHP
 - MySQL
-- HTML/CSS/JS (basic)
+- HTML/CSS/Bootstrap(basic)
 - XAMPP
 
 ## Features
